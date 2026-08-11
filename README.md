@@ -37,8 +37,8 @@ The **Face Recognition Attendance System** replaces manual roll calls with an au
 
 **Present tab** — live scanner status and real-time presence table:
 
-![Present tab dashboard](face_recognition_attendance/static/img
-/bio.jpg)
+![Present tab dashboard](f[ace_recognition_attendance/static/img
+/bio.jpg])(https://claude.ai/chat/screenshots/dashboard-present.png)
 
 **Attendance tab** — full attendance log with profile ID and timestamp:
 
