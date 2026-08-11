@@ -37,12 +37,13 @@ The **Face Recognition Attendance System** replaces manual roll calls with an au
 
 **Present tab** — live scanner status and real-time presence table:
 
-![Present tab dashboard]face_recognition_attendance/static/img
+![Present tab dashboard](face_recognition_attendance/static/img
 /bio.jpg)
 
 **Attendance tab** — full attendance log with profile ID and timestamp:
 
-![Attendance tab dashboard](screenshots/dashboard-attendance.png)
+![Attendance tab dashboard](face_recognition_attendance/static/img
+/digital.jpg)
 
 ---
 
